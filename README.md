@@ -145,7 +145,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the GEIK University of Miskolc License.
+Distributed under GEIK.License University of Miskolc Licenses.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
