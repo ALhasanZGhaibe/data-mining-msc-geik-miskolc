@@ -1,4 +1,4 @@
-# Data Mining Subject
+# Data Mining Subject (Solutions)
 
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
