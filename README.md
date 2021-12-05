@@ -154,7 +154,7 @@ Distributed under GEIK.License University of Miskolc Licenses.
 <!-- CONTACT -->
 ## Contact
 
-Alhasan Zghaibe - [@twitter_handle](https://twitter.com/twitter_handle) - hsnzag@gmail.com
+Alhasan Zghaibe - hsnzag@gmail.com
 
 Project Link: [https://github.com/ALhasanZGhaibe/data-mining-msc-geik-miskolc](https://github.com/ALhasanZGhaibe/data-mining-msc-geik-miskolc)
 
