@@ -1,4 +1,4 @@
-# Data Mining Subject Miskolc University
+# Data Mining Subject
 
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
