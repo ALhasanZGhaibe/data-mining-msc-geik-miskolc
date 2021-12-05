@@ -1,4 +1,4 @@
-# Data Mining Subject Computer Scince Msc of Miskolc University
+# Data Mining Subject Miskolc University
 
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
