@@ -54,8 +54,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The solutions for all exercises in the lecture Data-Mining,<br>
-Within the master degree program of computer science engineering,<br>
+The solutions for all exercises in the lecture Data-Mining, within the master degree program of computer science engineering,<br>
 Of the university of miskolc faculty of information technology and engineering.<br>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
